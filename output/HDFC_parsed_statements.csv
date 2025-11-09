@@ -1,0 +1,6 @@
+bank_name,name,card_number,billing_period,due_date,min_due,new_balance,credit_limit,rewards_earned,statement_date,file_name
+HDFC,Rahul Sharma Credit Card Number,XXXX-XXXX-XXXX-4321,01 Dec 20XX - 30 Dec 20XX Previous Balance,23/01/XX,"2,500","1,39,271","2,00,000",215,30/12/XX,HDFC_Statement_Realistic_1.pdf
+HDFC,Priya Mehta Credit Card Number,XXXX-XXXX-XXXX-8765,01 Nov 20XX - 30 Nov 20XX Previous Balance,23/12/XX,"2,500","1,39,271","2,00,000",215,30/11/XX,HDFC_Statement_Realistic_2.pdf
+HDFC,Amit Patel Credit Card Number,XXXX-XXXX-XXXX-6543,01 Oct 20XX - 31 Oct 20XX Previous Balance,23/11/XX,"2,500","1,39,271","2,00,000",215,31/10/XX,HDFC_Statement_Realistic_3.pdf
+HDFC,Neha Verma Credit Card Number,XXXX-XXXX-XXXX-3210,01 Sep 20XX - 30 Sep 20XX Previous Balance,23/10/XX,"2,500","1,39,271","2,00,000",215,30/09/XX,HDFC_Statement_Realistic_4.pdf
+HDFC,Rohit Gupta Credit Card Number,XXXX-XXXX-XXXX-9999,01 Aug 20XX - 31 Aug 20XX Previous Balance,23/09/XX,"2,500","1,39,271","2,00,000",215,31/08/XX,HDFC_Statement_Realistic_5.pdf
